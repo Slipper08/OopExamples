@@ -8,9 +8,9 @@ namespace OopExamples
     {
         static void Main(string[] args)
         {
-            
+
             //Encapsulation.PersonProblemExample.Run();
-            //Encapsulation.PersonSolutionExample.Run();
+            Encapsulation.PersonSolutionExample.Run();
 
             //ShapeClass.TestShapeExample.Area();
             //ShapeClass.TestShapeExample.Draw();
@@ -18,7 +18,7 @@ namespace OopExamples
             //ShapeInterface.TestShapeExample.Area();
             //ShapeInterface.TestShapeExample.Draw();
 
-            ShapeClass.CompositionExample.Run();
+            //ShapeClass.CompositionExample.Run();
 
         }
     }
